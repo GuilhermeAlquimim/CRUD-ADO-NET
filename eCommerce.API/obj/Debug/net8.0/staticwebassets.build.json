@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "fb+64hHaXc8WM0Hx+jXKItL0MvdSe0Cg29Z1A2Sux4A=",
+  "Source": "eCommerce.API",
+  "BasePath": "_content/eCommerce.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
